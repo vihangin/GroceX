@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GroceX/GroceX.vcxproj" Id="c69f0d34-bf25-a270-05bc-167915800523" />
+</Solution>
